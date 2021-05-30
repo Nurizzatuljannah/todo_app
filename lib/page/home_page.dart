@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_todo_app_ui_from_scratch/main.dart';
-import 'package:flutter_todo_app_ui_from_scratch/widget/add_todo_dialog_widget.dart';
-import 'package:flutter_todo_app_ui_from_scratch/widget/completed_list_widget.dart';
-import 'package:flutter_todo_app_ui_from_scratch/widget/todo_list_widget.dart';
+// import 'package:todo_app/main.dart';
+// import 'package:todo_app/widget/add_todo_dialog_widget.dart';
+// import 'package:todo_app/widget/completed_list_widget.dart';
+// import 'package:todo_app/widget/todo_list_widget.dart';
 
 class HomePage extends StatefulWidget {
   @override

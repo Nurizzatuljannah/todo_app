@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable/flutter_slidable.dart';
-import 'package:provider/provider.dart';
-import 'package:flutter_todo_app_ui_from_scratch/model/todo.dart';
-import 'package:flutter_todo_app_ui_from_scratch/page/edit_todo_page.dart';
-import 'package:flutter_todo_app_ui_from_scratch/provider/todos.dart';
-import 'package:flutter_todo_app_ui_from_scratch/utils.dart';
+// import 'package:flutter_slidable/flutter_slidable.dart';
+// import 'package:provider/provider.dart';
+// import 'package:todo_app/model/todo.dart';
+// import 'package:todo_app/page/edit_todo_page.dart';
+// import 'package:todo_app/provider/todos.dart';
+// import 'package:todo_app/utils.dart';
 
 class TodoWidget extends StatelessWidget {
   final Todo todo;

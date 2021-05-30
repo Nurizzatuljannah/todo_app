@@ -1,6 +1,6 @@
 // TODO Implement this library.
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_todo_app_ui_from_scratch/model/todo.dart';
+// import 'package:todo_app/model/todo.dart';
 
 class TodosProvider extends ChangeNotifier {
   List<Todo> _todos = [

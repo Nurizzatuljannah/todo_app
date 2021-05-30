@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:flutter_todo_app_ui_from_scratch/page/home_page.dart';
-import 'package:flutter_todo_app_ui_from_scratch/provider/todos.dart';
+// import 'package:provider/provider.dart';
+// import 'package:todo_app/page/home_page.dart';
+// import 'package:todo_app/provider/todos.dart';
 
 void main() => runApp(MyApp());
 
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
             primarySwatch: Colors.pink,
             scaffoldBackgroundColor: Color(0xFFf6f5ee),
           ),
-          home: HomePage(),
+          // home: HomePage(),
         ),
       );
 }
